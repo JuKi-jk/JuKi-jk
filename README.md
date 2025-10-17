@@ -9,7 +9,7 @@ I’ve worked on projects involving:
 - 📊 Data mining and statistical modeling (R, SPSS, Python)  
 - 💬 Human–AI communication and dialogue systems  
 
-🌱 I’m currently expanding my skills in **Java**, **Kotlin** and **Golang**
+🌱 I’m currently expanding my skills in **Kotlin** and **Golang**
 
 ⚙️ Tech Stack  
 
