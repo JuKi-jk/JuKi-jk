@@ -19,7 +19,7 @@ I’ve worked on projects involving:
 
 🌱 I’m currently expanding my skills in **Java**, **Kotlin** and **Golang**
 
-## ⚙️ Tech Stack  
+⚙️ Tech Stack  
 
 **Languages:** Python · R · SQL (novice)
 **Frameworks & Tools:** PyTorch · Hugging Face · Docker · Git · Tableau · Excel  
@@ -27,19 +27,19 @@ I’ve worked on projects involving:
 **Specialties:** NLP · Machine Learning · Transformer Models · Data Mining   
 
 
-## 🧠 Featured Projects  
+🧠 Featured Projects  
 
 - **Conversational AI Companion** – Transformer-based chatbot for adaptive emotional dialogue 
 -  **Evolutionary Robotics** – Adaptive movement learning through evolutionary algorithms  
 -  **Quantified-Self Data Predictor** – ML model predicting anxiety levels from city crowdedness data  
 
 
-## 🔭 Currently working on
+🔭 Currently working on
 
 - Building **interactive AI systems** 
 - Working on AI-powered website chatbot for a french pharmacy
 
-## 📫 How to reach me: 
+📫 How to reach me: 
 
 📧 **Email:** cisewskajulianna@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/julianna-cisewska-64b438257/ 
