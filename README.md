@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 👋 Hi, I'm Julianna 
+## Hi there 👋  I'm Julianna 
 
 🎓 **Master’s student in Artificial Intelligence** at Vrije Universiteit Amsterdam  
 🧠 Interested in **Human–AI Interaction**, **NLP**, **Machine Learning** 
@@ -26,18 +24,15 @@ I’ve worked on projects involving:
 **Data Science:** SPSS · Scikit-learn · NumPy · pandas · SciPy  
 **Specialties:** NLP · Machine Learning · Transformer Models · Data Mining   
 
-
 🧠 Featured Projects  
 
 - **Conversational AI Companion** – Transformer-based chatbot for adaptive emotional dialogue 
 -  **Evolutionary Robotics** – Adaptive movement learning through evolutionary algorithms  
 -  **Quantified-Self Data Predictor** – ML model predicting anxiety levels from city crowdedness data  
 
-
 🔭 Currently working on
 
-- Building **interactive AI systems** 
-- Working on AI-powered website chatbot for a french pharmacy
+- Building AI-powered website chatbot for a french pharmacy
 
 📫 How to reach me: 
 
