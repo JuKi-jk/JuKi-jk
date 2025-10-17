@@ -1,8 +1,10 @@
 ## Hi there 👋  I'm Julianna 
 
 🎓 **Master’s student in Artificial Intelligence** at Vrije Universiteit Amsterdam  
-🧠 Interested in **Human–AI Interaction**, **NLP**, **Machine Learning** 
-🌍 Multilingual — Polish 🇵🇱 | French 🇫🇷 | English 🇬🇧 | learning Spanish 🇪🇸  
+
+ Interested in **Human–AI Interaction**, **NLP**, **Machine Learning** 
+
+ Multilingual — Polish, French, English, learning Spanish  
 
 🧩 About Me  
 
