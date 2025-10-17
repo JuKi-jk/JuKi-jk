@@ -14,8 +14,11 @@ I’ve worked on projects involving:
 ⚙️ Tech Stack  
 
 **Languages:** Python · R · SQL (novice)
+
 **Frameworks & Tools:** PyTorch · Hugging Face · Docker · Git · Tableau · Excel  
+
 **Data Science:** SPSS · Scikit-learn · NumPy · pandas · SciPy  
+
 **Specialties:** NLP · Machine Learning · Transformer Models · Data Mining   
 
 🔭 Currently working on
