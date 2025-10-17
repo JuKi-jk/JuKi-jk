@@ -5,7 +5,7 @@ My background combines **AI**, **data science**, and **neuroscience**, and I enj
 
 I’ve worked on projects involving:  
 - 🗣️ Transformer-based NLP (hate-speech detection, subjectivity mining)  
-- 🤖 Evolutionary algorithms and robotic learning (MuJoCo simulations)  
+- 🤖 Evolutionary algorithms and robotic learning 
 - 📊 Data mining and statistical modeling (R, SPSS, Python)  
 - 💬 Human–AI communication and dialogue systems  
 
